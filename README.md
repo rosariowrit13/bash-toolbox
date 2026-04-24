@@ -1,30 +1,36 @@
-\# Bash Toolbox
-
-
+# Bash Toolbox
 
 A menu-driven Bash utility script.
 
 
+## Features
 
-\## Features
+- Show current date
 
+- Show files
 
+- Backup text files
 
-\- Show current date
+- Show current folder
 
-\- Show files
-
-\- Backup text files
-
-\- Show current folder
-
-\- Exit menu
+- Exit menu
 
 
 
-\## Run
+## Skills used
+
+- Bash
+
+-Function
+
+-Loops
+
+-Case statement
+
+-Git
 
 
+## Run
 
 ```bash
 
