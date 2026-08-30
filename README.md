@@ -38,3 +38,5 @@ chmod +x toolbox.sh
 
 ./toolbox.sh
 
+## Calculator Feature
+- A calculator is being developed. 
