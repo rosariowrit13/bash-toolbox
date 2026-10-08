@@ -43,7 +43,7 @@ quit_menu(){
 while true;
 do
    menu 
-   case "$choice" in
+      case "$choice" in
          1) show_date ;;
          2) show_files ;;
          3) backup_text ;;

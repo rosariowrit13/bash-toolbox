@@ -40,3 +40,7 @@ chmod +x toolbox.sh
 
 ## Calculator Feature
 - A calculator is being developed. 
+- My first calculator project.
+## System information toolbox
+- A Toolbox that can read the system info
+- It basically displays the system info
